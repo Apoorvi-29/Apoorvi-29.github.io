@@ -8,7 +8,7 @@ categories:
  - github
 ---
 
-![GOKART](/assets/GOKART.jpg))
+![GOKART](/assets/GOKART.jpg)
 
 
 ## MathJax
