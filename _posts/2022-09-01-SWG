@@ -1,0 +1,24 @@
+---
+title:  "Design and Development of a Harmonic Drive"
+mathjax: true
+layout: post
+categories: 
+ - media
+ - website
+ - github
+---
+
+
+A Strain Wave Gearbox (SWG) is a unique mechanism designed to provide large gear ratios in a compact form using a flexible gear to achieve the gear reductions. 
+A SWG uses a wave generator and a flexspline to align teeth of circular splines using the principle of a wedge and achieve a larger gear ratio than conventional gear trains. 
+The Flexspline fits in between the wave generator and the circular spline, hence being the key component in the mechansim helping us achieve the reductions. 
+This document reports an overview of the SWG we developed, mainly focusing on the design and manufacturing aspects of it.
+
+-The cost of a small Harmonic Drive is around the range of 20,000 (INR) , which has quite a high power rating (400 W and above). A power rating of this scale is not needed for small scale projects and manipulators.
+-The small scale SWGs available in the market currently are made of metal parts, which is a leading cause behind driving the costs up.The aim was to develop a Harmonic Drive that catered to this segment of technicians and engineers cost-effictively.
+
+We achieved a gear ratio of 27:1 
+
+
+
+
